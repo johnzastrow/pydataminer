@@ -7,6 +7,7 @@
 #   1. An input folder
 #   2. An output Excel File
 #   3. An output folder to store temporary files
+# Revised: John Zastrow, November 18, 2022, porting to work with Python 3 and ArcGIS Pro 3.0
 
 try:
     # Setup environment and import modules
